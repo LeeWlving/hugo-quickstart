@@ -1,0 +1,3 @@
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://gitee.com/mirrors_tjerkw/hugo-paper.git
